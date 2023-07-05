@@ -39,7 +39,7 @@ let data = {
         ],
         list: [],
         steps: [
-            "Get to know about the <a href='#what-is-apecoindoa' subject='what-is-apecoindoa'>ApeCoin DAO</a><img src='images/apecoin-logo.svg' class='inline-icon'> and how you can be a member",
+            "Get to know about the <a href='#what-is-apecoindao' subject='what-is-apecoindao'>ApeCoin DAO</a><img src='images/apecoin-logo.svg' class='inline-icon'> and how you can be a member",
             "Know the <a href='#must-knows' subject='must-knows'>must-knows</a><img src='images/important-icon.png' class='inline-icon'> of transacting on the Ethereum blockchain",
             "Set up a <a href='#get-wallet' subject='get-wallet'>MetaMask</a><img src='images/metamask-logo.svg' class='inline-icon'> wallet",
             "Buy $15-$20 worth of ApeCoin on <a href='#get-coinbase' subject='get-coinbase'>Coinbase</a><img src='images/coinbase-logo.png' class='inline-icon'> or <a href='#get-binance' subject='get-binance'>Binance</a><img src='images/binance-logo.svg' class='inline-icon'>",
@@ -58,7 +58,7 @@ let data = {
         ],
         steps: [],
         list: [
-            "You need ether (ETH) to pay for gas to transact on the Ethereum network where ApeCoin leaves.",
+            "You need ether (ETH) to pay for gas to transact on the Ethereum network where ApeCoin lives.",
             "Be aware that transactions on Ethereum can be expensive when the network is busy.",
             "Never share your seed phrase or store them on your phone or computer. Write it down on paper!",
             "Only send ether to an Ethereum address, bitcoin to a Bitcoin addresses, etc.",
@@ -67,7 +67,7 @@ let data = {
             "Now let's walkthrough setting up a <a href='#get-wallet' subject='get-wallet'>MetaMask</a><img src='images/metamask-logo.svg' class='inline-icon'> wallet."
         ]
     },
-    'what-is-apecoindoa': {
+    'what-is-apecoindao': {
         title: 'What is ApeCoin DAO',
         icon: 'images/question-icon.png',
         descriptions: [],
@@ -77,7 +77,7 @@ let data = {
             "ApeCoin DAO is an organisation that runs on a blockchain network.",
             "ApeCoin DAO is governed by holders of ApeCoin.",
             "Only one Apecoin is needed to join the DAO and begin participating.",
-            "ApeCoin DOA members can propose and vote on proposals using the ApeCoin token.",
+            "ApeCoin DAO members can propose and vote on proposals using the ApeCoin token.",
             "ApeCoin DAO facilitate decentralised governance, funding, and coordination.",
             "ApeCoin DAO is open to everyone around the world.",
             "There are some things you <a href='#must-knows' subject='must-knows'>should know</a><img src='images/important-icon.png' class='inline-icon'> regarding using the blockchain."
